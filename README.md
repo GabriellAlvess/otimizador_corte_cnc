@@ -5,11 +5,11 @@ Este projeto implementa um sistema de otimização de corte 2D para máquinas CN
 
 ## Funcionalidades
 
--- **Algoritmo Genético com Heurística Skyline** - Otimiza a disposição das peças na chapa
--- **Suporte a Múltiplos Formatos de Peças** - Retangular, circular, triangular e diamante
--- **Rotação Automática** - Testa rotações de 0° e 90° para otimizar o encaixe
--- **Visualização** - Apresenta layouts inicial e otimizado usando Matplotlib
--- **Cache de Fitness** - Melhora o desempenho evitando recálculos
+- **Algoritmo Genético com Heurística Skyline** - Otimiza a disposição das peças na chapa
+- **Suporte a Múltiplos Formatos de Peças** - Retangular, circular, triangular e diamante
+- **Rotação Automática** - Testa rotações de 0° e 90° para otimizar o encaixe
+- **Visualização** - Apresenta layouts inicial e otimizado usando Matplotlib
+- **Cache de Fitness** - Melhora o desempenho evitando recálculos
 
 ## Estrutura do Projeto
 ```
